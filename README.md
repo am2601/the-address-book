@@ -1,2 +1,1 @@
-# python-projects
-here i upload my tutorial projects
+my first simple program on python =)
